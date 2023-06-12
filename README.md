@@ -11,7 +11,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ### Tools
 
-- PowerBI for data analysis and data visualizaiton - [PowerBI Raw Dashboard](https://github.com/jkim772/Hospitality-Domain-Revenue-Insight-Project/blob/main/Hospitality%20Domain%20Revenue%20Insights.pbix)
+- PowerBI for data analysis and data visualizaiton - [PowerBI Raw Dashboard](https://github.com/jkim772/Hospitality-Domain-Revenue-Insight-Project/blob/main/Dashboard.pbix)
 
 ### [Dashboard]([Hospitality Domain Revenue Insights.pdf](https://github.com/jkim772/Hospitality-Domain-Revenue-Insight-Project/blob/main/Dashboard_pdf.pdf))
 
